@@ -1,0 +1,5 @@
+# The game itself needs NOTHING (standard library only).
+# Optional: mp3/ogg music support
+pygame
+# Only needed to build the .exe
+pyinstaller

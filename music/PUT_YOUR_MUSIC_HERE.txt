@@ -1,0 +1,9 @@
+PUT YOUR MUSIC FILE IN THIS FOLDER
+==================================
+Supported: .wav  .mp3  .ogg
+  - .wav plays out of the box on Windows (no extra install).
+  - .mp3 / .ogg need pygame:   pip install pygame
+
+Your files automatically replace the built-in theme (_default_theme.wav).
+In-game:  M = music on/off     N = next track
+If you use the .exe, keep this "music" folder in the SAME folder as the .exe.
